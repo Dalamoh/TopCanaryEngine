@@ -1,2 +1,4 @@
 # TopCanaryEngine
-Engine made on C++ and DX11 lib
+Project made when I started learning game engine technology. It suports .obj rendering, hlsl shaders and input events.
+Platform: PC
+Languages / Frameworks: C++, DX11
